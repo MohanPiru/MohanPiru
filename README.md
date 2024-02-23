@@ -2,8 +2,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanPiru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohanPiru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohanPiru&" alt="mohanpiru" /></p>
 </div>
 
 ###
@@ -55,6 +54,6 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJ6Y3ViaWF4MWNteGNhbTVueWI5aTdtd3VtenhsOTlhM3g3eWh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
-<br clear="both">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohanPiru&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-<img src="https://raw.githubusercontent.com/MohanPiru/MohanPiru/output/snake.svg" alt="Snake animation" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohanPiru&label=Profile%20views&color=0e75b6&style=flat" alt="mohanpiru" /> </p>
