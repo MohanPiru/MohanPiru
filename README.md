@@ -1,33 +1,39 @@
 <h2 align="left">Hi 👋! My name is Pirumohan Mandal and I'm an aspiring DevOps and Cloud Engineer, from India.</h2>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanPiru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohanPiru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
+  <img width="22" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*nEDPaS5zFsFeX0F4oR6XjA.gif" height="50" alt="amazonwebservices logo"  />
+  <img width="22" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="terraform logo"  />
+  <img width="22" />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Kb9xet0B2P-XRaxOhuaIUg.gif" height="60" alt="argocd logo"  />
+  <img width="32" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="50" alt="prometheus logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
+  <img width="22" />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="50" alt="ansible logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
 </div>
 
 ###
@@ -49,3 +55,6 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJ6Y3ViaWF4MWNteGNhbTVueWI5aTdtd3VtenhsOTlhM3g3eWh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MohanPiru/MohanPiru/output/snake.svg" alt="Snake animation" />
