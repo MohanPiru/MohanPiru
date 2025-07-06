@@ -8,31 +8,18 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
-  <img width="22" />
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*nEDPaS5zFsFeX0F4oR6XjA.gif" height="50" alt="amazonwebservices logo"  />
-  <img width="22" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="terraform logo"  />
-  <img width="22" />
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Kb9xet0B2P-XRaxOhuaIUg.gif" height="60" alt="argocd logo"  />
-  <img width="32" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="50" alt="prometheus logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
-  <img width="22" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="50" alt="ansible logo"  />
-  <img width="22" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" height="50" width="50" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" width="50"  alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" width="50" alt="jenkins logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*nEDPaS5zFsFeX0F4oR6XjA.gif" height="50" width="50" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" width="50" alt="terraform logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Kb9xet0B2P-XRaxOhuaIUg.gif" height="60" width="50" alt="argocd logo"  />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="50" width="50" alt="prometheus logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" width="50" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" width="50" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" width="50" alt="linux logo"  />
 </div>
 
 ###
